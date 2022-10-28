@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahcat&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahcat&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

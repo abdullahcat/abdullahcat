@@ -1,9 +1,6 @@
 # Hi there, I'm Abdullah! 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahcat&show_icons=true&theme=dracula)
-
-[![Top Langs][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahcat&show_icons=true&theme=dracula)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

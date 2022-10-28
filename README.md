@@ -1,5 +1,7 @@
 # Hi there, I'm Abdullah! 
 
+### Currently I’m working on some applications to create minimum viable product for users.
+
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahcat&show_icons=true&theme=dracula)
 
 

@@ -1,6 +1,9 @@
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Çat 
-https://media.tenor.com/yJj-j4kWYP4AAAAM/steve-jobs-introducing-new-apple-product.gif
+# Hola ![](https://y.yarn.co/9200a720-cf27-47ab-800c-89042ce6971d_text.gif)
+
+### or you can call me Abdullah Çat
+
+
 ## Entrepreneur and Developer
 
 

@@ -1,7 +1,7 @@
 
 # Hola ![](https://y.yarn.co/9200a720-cf27-47ab-800c-89042ce6971d_text.gif)
 
-### or you can call me Abdullah Çat
+### but you can call me Abdullah Çat
 
 
 ## Entrepreneur and Developer

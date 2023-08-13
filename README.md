@@ -1,5 +1,5 @@
 
-# Hola ![](https://y.yarn.co/9200a720-cf27-47ab-800c-89042ce6971d_text.gif)
+![](https://y.yarn.co/9200a720-cf27-47ab-800c-89042ce6971d_text.gif)
 
 ## Entrepreneur & Developer
 

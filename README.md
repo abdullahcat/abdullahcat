@@ -1,18 +1,14 @@
 
 # Hola ![](https://y.yarn.co/9200a720-cf27-47ab-800c-89042ce6971d_text.gif)
 
-### but you can call me Abdullah Çat
+## Entrepreneur & Developer
 
 
-## Entrepreneur and Developer
+I'm currently trying to improve myself on React JS, Swift and Flutter. I like to make projects with Python, especially in motion recognition and AI themes. And also I direct some organizations about travel, education, art and payment systems.  
 
-
-I'm currently trying to improve myself on React Native with AWS and Flutter with Firebase. I like to make projects with Python, especially in motion recognition and AI themes. Sometimes I code for Web but I don't like it that much. And also I direct some organizations about travel, education, art and payment systems.  
-
-* 🌍  I'm based in London 
 * ✉️  You can contact me at [contact.abdullahcat@gmail.com](mailto:contact.abdullahcat@gmail.com) 
-* 🧠  I'm learning Swift 
-* 🤝  I'm open to collaborating on projects that I would like
+* 🧠  Learning Swift 
+* 🤝  Open to collaborating on projects that I like
 
 ### Skills  
 

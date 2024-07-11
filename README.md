@@ -8,7 +8,7 @@
 
 🌐 I also steer various ventures in areas spanning travel, education, art, and payment systems.
 
-📧 Feel free to reach out to me at contact.abdullahcat@gmail.com
+📧 Feel free to reach out to me at abdullah@standyroutes.com
 
 📚 Currently, I’m dedicated to mastering Swift.
 

@@ -1,7 +1,7 @@
 
 ![](https://y.yarn.co/9200a720-cf27-47ab-800c-89042ce6971d_text.gif)
 
-## Entrepreneur, Developer Soon Lawyer
+## Entrepreneur, Developer & Law Student
 
 
 🚀 I’m on a continuous journey to enhance my skills in React JS, Swift, and Flutter. My passion lies in crafting Python projects, particularly in the domains of motion recognition and AI.
